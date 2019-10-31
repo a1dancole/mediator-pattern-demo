@@ -1,0 +1,71 @@
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.deps.json
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.pdb
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\System.IO.Pipelines.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.Net.Http.Headers.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Routing.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.Net.Http.Headers.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Metadata.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Routing.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.AssemblyInfo.cs
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.csproj.CopyComplete
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.pdb
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.deps.json
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.pdb
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.csprojAssemblyReference.cache
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.AssemblyInfo.cs
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.pdb
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.deps.json
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.pdb
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.csprojAssemblyReference.cache
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.AssemblyInfo.cs
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.pdb
+D:\Projects\mediator-pattern-demo-1\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.deps.json
+D:\Projects\mediator-pattern-demo-1\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.dll
+D:\Projects\mediator-pattern-demo-1\mediator-pattern-demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.pdb
+D:\Projects\mediator-pattern-demo-1\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\mediator-pattern-demo-1\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.AssemblyInfo.cs
+D:\Projects\mediator-pattern-demo-1\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.dll
+D:\Projects\mediator-pattern-demo-1\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.pdb

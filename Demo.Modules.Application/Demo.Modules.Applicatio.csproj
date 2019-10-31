@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Demo.Core.Database\Demo.Core.Database.csproj" />
+    <ProjectReference Include="..\Demo.Core.Domain\Demo.Core.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

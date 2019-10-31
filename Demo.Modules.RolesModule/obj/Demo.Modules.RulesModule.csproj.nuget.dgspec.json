@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Aidan Cole\\source\\repos\\Demo.Modules.RulesModule\\Demo.Modules.RulesModule.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Aidan Cole\\source\\repos\\Demo.Modules.RulesModule\\Demo.Modules.RulesModule.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aidan Cole\\source\\repos\\Demo.Modules.RulesModule\\Demo.Modules.RulesModule.csproj",
+        "projectName": "Demo.Modules.RulesModule",
+        "projectPath": "C:\\Users\\Aidan Cole\\source\\repos\\Demo.Modules.RulesModule\\Demo.Modules.RulesModule.csproj",
+        "packagesPath": "C:\\Users\\Aidan Cole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aidan Cole\\source\\repos\\Demo.Modules.RulesModule\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aidan Cole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj": {
+                "projectPath": "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj"
+              },
+              "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "SimpleInjector.Packaging": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj",
+        "projectName": "Demo.Core.Database",
+        "projectPath": "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj",
+        "packagesPath": "C:\\Users\\Aidan Cole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aidan Cole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj",
+        "projectName": "Demo.Core.Domain",
+        "projectPath": "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\Aidan Cole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aidan Cole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj",
+        "projectName": "Demo.Core.Infrastructure",
+        "projectPath": "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Aidan Cole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aidan Cole\\source\\repos\\mediator-pattern-demo\\Demo.Core.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aidan Cole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[4.9.4, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.5.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

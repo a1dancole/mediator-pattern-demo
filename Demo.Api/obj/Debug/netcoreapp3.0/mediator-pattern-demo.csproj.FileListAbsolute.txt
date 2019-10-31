@@ -1,0 +1,432 @@
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\mediator-pattern-demo.exe
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\mediator-pattern-demo.deps.json
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\mediator-pattern-demo.runtimeconfig.json
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\mediator-pattern-demo.runtimeconfig.dev.json
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\mediator-pattern-demo.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\mediator-pattern-demo.pdb
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Autofac.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\FluentValidation.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Hellang.Middleware.ProblemDetails.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\MediatR.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\SimpleInjector.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\SimpleInjector.Integration.AspNetCore.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\SimpleInjector.Integration.AspNetCore.Mvc.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\SimpleInjector.Integration.AspNetCore.Mvc.Core.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\SimpleInjector.Integration.ServiceCollection.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\SimpleInjector.Packaging.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Core.Database.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Core.Domain.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Modules.ApplicationModule.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Modules.RolesModule.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Modules.RolesModule.pdb
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Core.Database.pdb
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Modules.ApplicationModule.pdb
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Core.Domain.pdb
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.pdb
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\mediator-pattern-demo.csprojAssemblyReference.cache
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\staticwebassets\mediator-pattern-demo.StaticWebAssets.Manifest.cache
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\staticwebassets\mediator-pattern-demo.StaticWebAssets.xml
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\mediator-pattern-demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\mediator-pattern-demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\mediator-pattern-demo.AssemblyInfoInputs.cache
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\mediator-pattern-demo.AssemblyInfo.cs
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\mediator-pattern-demo.RazorTargetAssemblyInfo.cache
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\mediator-pattern-demo.csproj.CopyComplete
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\mediator-pattern-demo.dll
+C:\Users\Aidan Cole\source\repos\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\mediator-pattern-demo.pdb
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\mediator-pattern-demo.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\mediator-pattern-demo.pdb
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\mediator-pattern-demo.exe
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\mediator-pattern-demo.deps.json
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\mediator-pattern-demo.runtimeconfig.json
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\mediator-pattern-demo.runtimeconfig.dev.json
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\mediator-pattern-demo.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\mediator-pattern-demo.pdb
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Autofac.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\AutoMapper.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\FluentValidation.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Hellang.Middleware.ProblemDetails.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\MediatR.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\SimpleInjector.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\SimpleInjector.Integration.AspNetCore.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\SimpleInjector.Integration.AspNetCore.Mvc.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\SimpleInjector.Integration.AspNetCore.Mvc.Core.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\SimpleInjector.Integration.ServiceCollection.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\SimpleInjector.Packaging.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Core.Database.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Core.Domain.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Modules.ApplicationModule.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Modules.RolesModule.dll
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Modules.RolesModule.pdb
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Core.Database.pdb
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Modules.ApplicationModule.pdb
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Core.Domain.pdb
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.pdb
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\mediator-pattern-demo.csprojAssemblyReference.cache
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\staticwebassets\mediator-pattern-demo.StaticWebAssets.Manifest.cache
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\staticwebassets\mediator-pattern-demo.StaticWebAssets.xml
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\mediator-pattern-demo.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\mediator-pattern-demo.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\mediator-pattern-demo.AssemblyInfoInputs.cache
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\mediator-pattern-demo.AssemblyInfo.cs
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\mediator-pattern-demo.RazorTargetAssemblyInfo.cache
+D:\Projects\mediator-pattern-demo\mediator-pattern-demo\mediator-pattern-demo\obj\Debug\netcoreapp3.0\mediator-pattern-demo.csproj.CopyComplete
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\mediator-pattern-demo.exe
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\mediator-pattern-demo.deps.json
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\mediator-pattern-demo.runtimeconfig.json
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\mediator-pattern-demo.runtimeconfig.dev.json
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\mediator-pattern-demo.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\mediator-pattern-demo.pdb
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Autofac.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\AutoMapper.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\FluentValidation.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Hellang.Middleware.ProblemDetails.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\MediatR.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\SimpleInjector.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\SimpleInjector.Integration.AspNetCore.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\SimpleInjector.Integration.AspNetCore.Mvc.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\SimpleInjector.Integration.AspNetCore.Mvc.Core.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\SimpleInjector.Integration.ServiceCollection.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\SimpleInjector.Packaging.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Demo.Core.Database.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Demo.Core.Domain.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Demo.Modules.ApplicationModule.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Demo.Modules.RolesModule.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Demo.Modules.RolesModule.pdb
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Demo.Core.Database.pdb
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Demo.Modules.ApplicationModule.pdb
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Demo.Core.Domain.pdb
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.pdb
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\obj\Debug\netcoreapp3.0\mediator-pattern-demo.csprojAssemblyReference.cache
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\obj\Debug\netcoreapp3.0\staticwebassets\mediator-pattern-demo.StaticWebAssets.Manifest.cache
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\obj\Debug\netcoreapp3.0\staticwebassets\mediator-pattern-demo.StaticWebAssets.xml
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\obj\Debug\netcoreapp3.0\mediator-pattern-demo.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\obj\Debug\netcoreapp3.0\mediator-pattern-demo.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\obj\Debug\netcoreapp3.0\mediator-pattern-demo.AssemblyInfoInputs.cache
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\obj\Debug\netcoreapp3.0\mediator-pattern-demo.AssemblyInfo.cs
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\obj\Debug\netcoreapp3.0\mediator-pattern-demo.RazorTargetAssemblyInfo.cache
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\obj\Debug\netcoreapp3.0\mediator-pattern-demo.csproj.CopyComplete
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\obj\Debug\netcoreapp3.0\mediator-pattern-demo.dll
+D:\Projects\mediator-pattern-demo1\mediator-pattern-demo\API\obj\Debug\netcoreapp3.0\mediator-pattern-demo.pdb
