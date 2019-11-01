@@ -1,10 +1,10 @@
-﻿using System.Threading;
-using System.Threading.Tasks;
-using AutoMapper;
+﻿using AutoMapper;
 using Demo.Core.Domain.Models;
 using Demo.Modules.RolesModule.Commands;
 using Demo.Modules.RolesModule.Repository;
 using MediatR;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace Demo.Modules.RolesModule.Handlers
 {

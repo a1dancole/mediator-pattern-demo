@@ -9252,11 +9252,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.RolesModule.Tests\\Demo.Modules.RulesModule.Tests.csproj",
+      "projectUniqueName": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.RolesModule.Tests\\Demo.Modules.RulesModule.Tests.csproj",
       "projectName": "Demo.Modules.RulesModule.Tests",
-      "projectPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.RolesModule.Tests\\Demo.Modules.RulesModule.Tests.csproj",
+      "projectPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.RolesModule.Tests\\Demo.Modules.RulesModule.Tests.csproj",
       "packagesPath": "C:\\Users\\Aidan Cole\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.RolesModule.Tests\\obj\\",
+      "outputPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.RolesModule.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9275,8 +9275,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.RolesModule\\Demo.Modules.RolesModule.csproj": {
-              "projectPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.RolesModule\\Demo.Modules.RolesModule.csproj"
+            "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.RolesModule\\Demo.Modules.RolesModule.csproj": {
+              "projectPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.RolesModule\\Demo.Modules.RolesModule.csproj"
             }
           }
         }

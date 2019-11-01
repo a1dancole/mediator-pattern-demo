@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
-using AutoMapper;
+﻿using AutoMapper;
 using Demo.Core.Domain.Models;
 using Demo.Modules.ApplicationModule.Commands;
 using MediatR;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace Demo.Modules.ApplicationModule.Handlers
 {

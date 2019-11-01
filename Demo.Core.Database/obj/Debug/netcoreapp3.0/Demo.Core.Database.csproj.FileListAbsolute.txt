@@ -104,3 +104,16 @@ D:\Projects\mediator-pattern-demo-1\mediator-pattern-demo\Demo.Core.Database\obj
 D:\Projects\mediator-pattern-demo-1\mediator-pattern-demo\Demo.Core.Database\obj\Debug\netcoreapp3.0\Demo.Core.Database.csproj.CopyComplete
 D:\Projects\mediator-pattern-demo-1\mediator-pattern-demo\Demo.Core.Database\obj\Debug\netcoreapp3.0\Demo.Core.Database.dll
 D:\Projects\mediator-pattern-demo-1\mediator-pattern-demo\Demo.Core.Database\obj\Debug\netcoreapp3.0\Demo.Core.Database.pdb
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Database\bin\Debug\netcoreapp3.0\Demo.Core.Database.deps.json
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Database\bin\Debug\netcoreapp3.0\Demo.Core.Database.dll
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Database\bin\Debug\netcoreapp3.0\Demo.Core.Database.pdb
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Database\bin\Debug\netcoreapp3.0\Demo.Core.Domain.dll
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Database\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.dll
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Database\bin\Debug\netcoreapp3.0\Demo.Core.Domain.pdb
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Database\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.pdb
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Database\obj\Debug\netcoreapp3.0\Demo.Core.Database.csprojAssemblyReference.cache
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Database\obj\Debug\netcoreapp3.0\Demo.Core.Database.AssemblyInfoInputs.cache
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Database\obj\Debug\netcoreapp3.0\Demo.Core.Database.AssemblyInfo.cs
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Database\obj\Debug\netcoreapp3.0\Demo.Core.Database.csproj.CopyComplete
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Database\obj\Debug\netcoreapp3.0\Demo.Core.Database.dll
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Database\obj\Debug\netcoreapp3.0\Demo.Core.Database.pdb

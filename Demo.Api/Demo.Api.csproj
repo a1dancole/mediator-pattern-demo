@@ -6,6 +6,7 @@
     <UserSecretsId>48dc5c17-2726-45b2-8df4-016b8dfc7601</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
+    <AssemblyName>Demo</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
@@ -20,7 +21,6 @@
     </PackageReference>
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.0.0" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.9.5" />
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.0.0" />
     <PackageReference Include="SimpleInjector" Version="4.7.1" />
     <PackageReference Include="SimpleInjector.Integration.AspNetCore.Mvc" Version="4.7.2" />
     <PackageReference Include="SimpleInjector.Integration.ServiceCollection" Version="4.7.1" />

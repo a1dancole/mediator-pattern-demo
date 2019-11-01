@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "mediator_pattern_demo": {
+    "Demo": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",

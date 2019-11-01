@@ -1,14 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using AutoMapper;
-using Demo.Core.Infrastructure;
-using Demo.Modules.ApplicationModule.Handlers;
-using MediatR;
+﻿using MediatR;
 using MediatR.Pipeline;
 using SimpleInjector;
 using SimpleInjector.Packaging;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Reflection;
 using Container = SimpleInjector.Container;
 
 namespace Demo.Modules.ApplicationModule

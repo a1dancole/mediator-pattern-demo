@@ -1,9 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Reflection;
-using System.Threading.Tasks;
 using AutoMapper;
 using Demo.Core.Domain.Dto.Roles;
 using Demo.Core.Domain.Models;
@@ -12,9 +6,12 @@ using Demo.Modules.RolesModule.Commands;
 using Demo.Modules.RolesModule.Configuration;
 using Demo.Modules.RolesModule.Handlers;
 using Demo.Modules.RolesModule.Repository;
-using FluentValidation;
-using FluentValidation.TestHelper;
 using Moq;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Linq.Expressions;
+using System.Threading.Tasks;
 using Xunit;
 
 namespace Demo.Modules.RulesModule.Tests
@@ -32,7 +29,8 @@ namespace Demo.Modules.RulesModule.Tests
                 RoleName = "Test",
                 RoleId = Guid.Empty,
             });
-            var config = new MapperConfiguration(cfg => {
+            var config = new MapperConfiguration(cfg =>
+            {
                 cfg.AddProfile<MappingProfile>();
             });
             var mapper = config.CreateMapper();
@@ -40,7 +38,7 @@ namespace Demo.Modules.RulesModule.Tests
             var handler = new CreateRoleHandler(repository.Object, mapper);
 
             //Act
-            var response = await handler.Handle(new CreateRoleCommand(new CreateRoleDto {ApplicationId = Guid.NewGuid(), RoleName = "test"}), default);
+            var response = await handler.Handle(new CreateRoleCommand(new CreateRoleDto { ApplicationId = Guid.NewGuid(), RoleName = "test" }), default);
 
             //Assert
             Assert.NotNull(response);
@@ -48,7 +46,7 @@ namespace Demo.Modules.RulesModule.Tests
         }
 
         [Fact]
-        public async Task CreateRoleHandler_BusinessValidationFails_ReturnsBusinessRuleFailureException()
+        public async Task CreateRoleHandler_BusinessValidationFails_BusinessRuleIsBroken()
         {
             //Setup
             var repository = new Mock<IRolesRepository>();
@@ -65,9 +63,9 @@ namespace Demo.Modules.RulesModule.Tests
             var handler = new CreateRoleBusinessRuleValidationHandler(repository.Object);
 
             //Act
-            var result = handler.Validate(new CreateRoleCommand(new CreateRoleDto {ApplicationId = Guid.Empty, RoleName = "TestRole"}));
+            var result = await handler.Validate(new CreateRoleCommand(new CreateRoleDto { ApplicationId = Guid.Empty, RoleName = "TestRole" }));
             //Assert
-            await Assert.ThrowsAsync<BusinessRuleValidationException>(async () => await result);
+            Assert.True(result.IsBroken());
         }
 
         [Fact]
@@ -92,7 +90,7 @@ namespace Demo.Modules.RulesModule.Tests
             //Setup
             var command = new CreateRoleCommand(new CreateRoleDto { ApplicationId = Guid.NewGuid() });
             var validator = new CreateRoleCommandValidator();
-            
+
             //Action
             var result = await validator.ValidateAsync(command);
 

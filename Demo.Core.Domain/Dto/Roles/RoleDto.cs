@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Demo.Core.Domain.Dto.Application;
+﻿using Demo.Core.Domain.Dto.Application;
+using System;
 
 namespace Demo.Core.Domain.Dto.Roles
 {

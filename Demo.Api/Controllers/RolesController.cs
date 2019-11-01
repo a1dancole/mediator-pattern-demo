@@ -1,10 +1,10 @@
-﻿using System;
-using System.Threading.Tasks;
-using Demo.Core.Domain.Dto.Roles;
+﻿using Demo.Core.Domain.Dto.Roles;
 using Demo.Modules.RolesModule.Commands;
 using Demo.Modules.RolesModule.Queries;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Threading.Tasks;
 
 namespace Demo.Controllers
 {

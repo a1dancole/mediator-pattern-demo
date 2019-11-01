@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Demo.Core.Domain.Dto.Application;
+﻿using Demo.Core.Domain.Dto.Application;
 using MediatR;
 
 namespace Demo.Modules.ApplicationModule.Commands

@@ -1,15 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Reflection;
-using AutoMapper;
+﻿using AutoMapper;
 using Demo.Core.Infrastructure;
 using FluentValidation;
 using MediatR;
 using MediatR.Pipeline;
 using SimpleInjector;
 using SimpleInjector.Packaging;
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Reflection;
 
 namespace Demo
 {
@@ -23,7 +23,7 @@ namespace Demo
         {
             container.RegisterSingleton<IMediator, Mediator>();
 
-            container.Register(typeof(IBusinessRuleValidator<>), GetAssemblies());
+            container.Collection.Register(typeof(IBusinessRuleValidator<>), GetAssemblies());
             container.Collection.Register(typeof(IValidator<>), GetAssemblies());
             container.Collection.Register(typeof(IRequestHandler<,>), GetAssemblies());
 
@@ -58,12 +58,9 @@ namespace Demo
 
         private static IEnumerable<Assembly> GetAssemblies()
         {
-            var assemblies =
-                from file in new DirectoryInfo(AppDomain.CurrentDomain.BaseDirectory).GetFiles()
-                where file.Extension.ToLower() == ".dll"
+            return from file in new DirectoryInfo(AppDomain.CurrentDomain.BaseDirectory).GetFiles()
+                where file.Extension.ToLower() == ".dll" && file.FullName.Contains("Demo")
                 select Assembly.Load(AssemblyName.GetAssemblyName(file.FullName));
-
-            return assemblies.Where(o => o.FullName.Contains("Demo", StringComparison.CurrentCultureIgnoreCase));
         }
     }
 }

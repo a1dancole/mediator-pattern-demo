@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Demo.Core.Domain.Dto.Roles
+﻿namespace Demo.Core.Domain.Dto.Roles
 {
     public class SearchRolesDto
     {

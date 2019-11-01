@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
-using AutoMapper;
+﻿using AutoMapper;
 using Demo.Core.Domain.Dto.Roles;
 using Demo.Core.Domain.Models;
 using Demo.Core.Infrastructure;
@@ -13,6 +7,11 @@ using Demo.Modules.RolesModule.Configuration;
 using Demo.Modules.RolesModule.Handlers;
 using Demo.Modules.RolesModule.Repository;
 using Moq;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Linq.Expressions;
+using System.Threading.Tasks;
 using Xunit;
 
 namespace Demo.Modules.RulesModule.Tests
@@ -26,7 +25,8 @@ namespace Demo.Modules.RulesModule.Tests
             var repository = new Mock<IRolesRepository>();
             repository.Setup(o => o.Delete(It.IsAny<Role>())).ReturnsAsync(true);
 
-            var config = new MapperConfiguration(cfg => {
+            var config = new MapperConfiguration(cfg =>
+            {
                 cfg.AddProfile<MappingProfile>();
             });
             var mapper = config.CreateMapper();
@@ -58,10 +58,10 @@ namespace Demo.Modules.RulesModule.Tests
             var handler = new DeleteRoleBusinessRuleValidationHandler(repository.Object);
 
             //Act
-            var result = handler.Validate(new DeleteRoleCommand(new DeleteRoleDto { ApplicationId = Guid.Empty, RoleName = "TestRole", RoleId = Guid.NewGuid()}));
+            var result = await handler.Validate(new DeleteRoleCommand(new DeleteRoleDto { ApplicationId = Guid.Empty, RoleName = "TestRole", RoleId = Guid.NewGuid() }));
 
             //Assert
-            await Assert.ThrowsAsync<BusinessRuleValidationException>(async () => await result);
+            Assert.True(result.IsBroken());
         }
 
         [Fact]

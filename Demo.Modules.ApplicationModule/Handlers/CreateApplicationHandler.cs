@@ -1,12 +1,10 @@
-﻿using System;
-using System.Threading;
-using System.Threading.Tasks;
-using AutoMapper;
+﻿using AutoMapper;
 using Demo.Core.Domain.Dto.Application;
 using Demo.Core.Domain.Models;
-using Demo.Core.Infrastructure;
 using Demo.Modules.ApplicationModule.Commands;
 using MediatR;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace Demo.Modules.ApplicationModule.Handlers
 {

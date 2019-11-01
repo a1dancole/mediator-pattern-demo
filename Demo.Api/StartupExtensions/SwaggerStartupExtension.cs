@@ -27,7 +27,6 @@ namespace Demo.StartupExtensions
             app.UseSwaggerUI(c =>
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "Mediator Pattern Demo");
-                c.RoutePrefix = string.Empty;
             });
 
             return app;

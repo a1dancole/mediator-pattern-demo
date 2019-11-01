@@ -9251,11 +9251,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.ApplicationModule.Tests\\Demo.Modules.ApplicationModule.Tests.csproj",
+      "projectUniqueName": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.ApplicationModule.Tests\\Demo.Modules.ApplicationModule.Tests.csproj",
       "projectName": "Demo.Modules.ApplicationModule.Tests",
-      "projectPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.ApplicationModule.Tests\\Demo.Modules.ApplicationModule.Tests.csproj",
+      "projectPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.ApplicationModule.Tests\\Demo.Modules.ApplicationModule.Tests.csproj",
       "packagesPath": "C:\\Users\\Aidan Cole\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.ApplicationModule.Tests\\obj\\",
+      "outputPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.ApplicationModule.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9274,8 +9274,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\Demo.Modules.ApplicationModule.csproj": {
-              "projectPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\Demo.Modules.ApplicationModule.csproj"
+            "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\Demo.Modules.ApplicationModule.csproj": {
+              "projectPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\Demo.Modules.ApplicationModule.csproj"
             }
           }
         }

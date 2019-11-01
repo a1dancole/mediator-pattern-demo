@@ -1,7 +1,7 @@
-﻿using System.Linq;
-using Demo.Core.Domain.Dto.Roles;
+﻿using Demo.Core.Domain.Dto.Roles;
 using Demo.Core.Domain.Models;
 using Demo.Core.Infrastructure;
+using System.Linq;
 
 namespace Demo.Modules.RolesModule.BusinessRules
 {

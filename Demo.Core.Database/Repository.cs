@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 
 namespace Demo.Core.Database
 {
     public abstract class Repository : IRepository
     {
-        public DatabaseContext Context { get;  }
+        public DatabaseContext Context { get; }
         protected Repository(DatabaseContext context)
         {
             Context = context;

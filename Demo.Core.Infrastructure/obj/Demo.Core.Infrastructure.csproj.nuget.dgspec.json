@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj": {}
+    "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj": {
+    "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj",
         "projectName": "Demo.Core.Infrastructure",
-        "projectPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj",
+        "projectPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Aidan Cole\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Infrastructure\\obj\\",
+        "outputPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

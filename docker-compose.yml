@@ -3,8 +3,8 @@ version: '3.4'
 services:
   database:
     image: "mcr.microsoft.com/mssql/server"
-  mediator-pattern-demo:
-    image: ${DOCKER_REGISTRY-}mediatorpatterndemo
+  demo.api:
+    image: ${DOCKER_REGISTRY-}demoapi
     build:
       context: .
-      dockerfile: mediator-pattern-demo/Dockerfile
+      dockerfile: Demo.Api/Dockerfile

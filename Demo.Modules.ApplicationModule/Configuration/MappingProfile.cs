@@ -1,9 +1,6 @@
 ﻿using AutoMapper;
 using Demo.Core.Domain.Dto.Application;
 using Demo.Core.Domain.Models;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Demo.Modules.ApplicationModule.Configuration
 {

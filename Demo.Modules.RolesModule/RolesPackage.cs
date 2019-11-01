@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using Demo.Modules.RolesModule.Repository;
+﻿using Demo.Modules.RolesModule.Repository;
 using MediatR;
 using MediatR.Pipeline;
 using SimpleInjector;
 using SimpleInjector.Packaging;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Reflection;
 
 namespace Demo.Modules.RolesModule
 {

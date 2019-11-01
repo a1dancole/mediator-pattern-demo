@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using Demo.Core.Domain.Models;
+﻿using Demo.Core.Domain.Models;
 using Demo.Core.Infrastructure;
 using Demo.Modules.ApplicationModule.Commands;
+using System.Linq;
 
 namespace Demo.Modules.ApplicationModule.BusinessRules
 {

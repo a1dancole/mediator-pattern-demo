@@ -7457,11 +7457,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\Demo.Modules.ApplicationModule.csproj",
+      "projectUniqueName": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\Demo.Modules.ApplicationModule.csproj",
       "projectName": "Demo.Modules.ApplicationModule",
-      "projectPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\Demo.Modules.ApplicationModule.csproj",
+      "projectPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\Demo.Modules.ApplicationModule.csproj",
       "packagesPath": "C:\\Users\\Aidan Cole\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\obj\\",
+      "outputPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7480,8 +7480,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj": {
-              "projectPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj"
+            "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj": {
+              "projectPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj"
             }
           }
         }

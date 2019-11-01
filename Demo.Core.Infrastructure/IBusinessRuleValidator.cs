@@ -4,6 +4,6 @@ namespace Demo.Core.Infrastructure
 {
     public interface IBusinessRuleValidator<in TRequest>
     {
-        Task Validate(TRequest request);
+        Task<IBusinessRule> Validate(TRequest request);
     }
 }

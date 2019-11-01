@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
-using Demo.Core.Infrastructure;
+﻿using Demo.Core.Infrastructure;
 using Demo.Modules.ApplicationModule.BusinessRules;
 using Demo.Modules.ApplicationModule.Commands;
+using System.Threading.Tasks;
 
 namespace Demo.Modules.ApplicationModule.Handlers
 {
@@ -16,18 +13,12 @@ namespace Demo.Modules.ApplicationModule.Handlers
         {
             _applicationRepository = applicationRepository;
         }
-        public async Task Validate(DeleteApplicationCommand request)
+        public async Task<IBusinessRule> Validate(DeleteApplicationCommand request)
         {
             var applications =
                 await _applicationRepository.Find(o => o.ApplicationId == request.ApplicationDeleteDto.ApplicationId);
 
-            var businessRule =
-                new ApplicationCannotBeDeleteWhenRecordDoesNotExistInDatabaseBusinessRule(request, applications);
-
-            if (businessRule.IsBroken())
-            {
-                throw new BusinessRuleValidationException(businessRule);
-            }
+            return new ApplicationCannotBeDeleteWhenRecordDoesNotExistInDatabaseBusinessRule(request, applications);
         }
     }
 }

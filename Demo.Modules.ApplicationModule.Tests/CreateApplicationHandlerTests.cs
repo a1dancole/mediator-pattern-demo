@@ -1,18 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
-using AutoMapper;
+﻿using AutoMapper;
 using Demo.Core.Domain.Dto.Application;
-using Demo.Core.Domain.Dto.Roles;
 using Demo.Core.Domain.Models;
 using Demo.Core.Infrastructure;
 using Demo.Modules.ApplicationModule.Commands;
 using Demo.Modules.ApplicationModule.Configuration;
 using Demo.Modules.ApplicationModule.Handlers;
 using Moq;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Linq.Expressions;
+using System.Threading.Tasks;
 using Xunit;
 
 namespace Demo.Modules.ApplicationModule.Tests
@@ -29,7 +27,8 @@ namespace Demo.Modules.ApplicationModule.Tests
                 ApplicationId = Guid.Empty,
                 ApplicationName = "Test"
             });
-            var config = new MapperConfiguration(cfg => {
+            var config = new MapperConfiguration(cfg =>
+            {
                 cfg.AddProfile<MappingProfile>();
             });
             var mapper = config.CreateMapper();
@@ -45,7 +44,7 @@ namespace Demo.Modules.ApplicationModule.Tests
         }
 
         [Fact]
-        public async Task CreateApplicationHandler_BusinessValidationFails_ThrowsException()
+        public async Task CreateApplicationHandler_BusinessValidationFails_BusinessRuleIsBroken()
         {
             //Setup
             var repository = new Mock<IApplicationRepository>();
@@ -61,9 +60,9 @@ namespace Demo.Modules.ApplicationModule.Tests
             var handler = new CreateApplicationBusinessRuleValidationHandler(repository.Object);
 
             //Act
-            var result = handler.Validate(new CreateApplicationCommand(new CreateApplicationDto { ApplicationName = "Test"}));
+            var result = await handler.Validate(new CreateApplicationCommand(new CreateApplicationDto { ApplicationName = "Test" }));
             //Assert
-            await Assert.ThrowsAsync<BusinessRuleValidationException>(async () => await result);
+            Assert.True(result.IsBroken());
         }
 
 

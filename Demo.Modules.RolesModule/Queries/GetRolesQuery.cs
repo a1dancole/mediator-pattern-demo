@@ -1,6 +1,6 @@
-﻿using System.Collections.Generic;
-using Demo.Core.Domain.Dto.Roles;
+﻿using Demo.Core.Domain.Dto.Roles;
 using MediatR;
+using System.Collections.Generic;
 
 namespace Demo.Modules.RolesModule.Queries
 {

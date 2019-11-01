@@ -7457,11 +7457,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.RolesModule\\Demo.Modules.RolesModule.csproj",
+      "projectUniqueName": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.RolesModule\\Demo.Modules.RolesModule.csproj",
       "projectName": "Demo.Modules.RolesModule",
-      "projectPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.RolesModule\\Demo.Modules.RolesModule.csproj",
+      "projectPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.RolesModule\\Demo.Modules.RolesModule.csproj",
       "packagesPath": "C:\\Users\\Aidan Cole\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.RolesModule\\obj\\",
+      "outputPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.RolesModule\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7480,11 +7480,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj": {
-              "projectPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj"
+            "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj": {
+              "projectPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj"
             },
-            "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj": {
-              "projectPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj"
+            "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj": {
+              "projectPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj"
             }
           }
         }

@@ -1,0 +1,9 @@
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo\bin\Debug\netcoreapp3.0\Demo.exe
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo\obj\Debug\netcoreapp3.0\staticwebassets\Demo.StaticWebAssets.Manifest.cache
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo\obj\Debug\netcoreapp3.0\staticwebassets\Demo.StaticWebAssets.xml
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo\obj\Debug\netcoreapp3.0\Demo.AssemblyInfoInputs.cache
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo\obj\Debug\netcoreapp3.0\Demo.AssemblyInfo.cs
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo\obj\Debug\netcoreapp3.0\Demo.RazorTargetAssemblyInfo.cache

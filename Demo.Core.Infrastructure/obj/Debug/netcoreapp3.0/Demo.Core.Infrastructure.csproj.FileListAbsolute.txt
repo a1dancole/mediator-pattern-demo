@@ -69,3 +69,12 @@ D:\Projects\mediator-pattern-demo-1\mediator-pattern-demo\Demo.Core.Infrastructu
 D:\Projects\mediator-pattern-demo-1\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.AssemblyInfo.cs
 D:\Projects\mediator-pattern-demo-1\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.dll
 D:\Projects\mediator-pattern-demo-1\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.pdb
+D:\Projects\mediator-pattern-demo-1\mediator-pattern-demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.csprojAssemblyReference.cache
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.deps.json
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.dll
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Infrastructure\bin\Debug\netcoreapp3.0\Demo.Core.Infrastructure.pdb
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.csprojAssemblyReference.cache
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.AssemblyInfo.cs
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.dll
+D:\Projects\mediator-pattern-demo-1\test\Demo\Demo.Core.Infrastructure\obj\Debug\netcoreapp3.0\Demo.Core.Infrastructure.pdb

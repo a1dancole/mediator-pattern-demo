@@ -1,8 +1,8 @@
-﻿using System;
+﻿using Demo.Core.Domain.Models;
+using System;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
-using Demo.Core.Domain.Models;
 
 namespace Demo.Modules.RolesModule.Repository
 {

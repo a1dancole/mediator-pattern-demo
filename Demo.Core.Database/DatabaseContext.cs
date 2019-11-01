@@ -1,10 +1,5 @@
 ﻿using Demo.Core.Domain.Models;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Text;
-using Microsoft.Extensions.Configuration;
 
 namespace Demo.Core.Database
 {

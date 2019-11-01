@@ -3,9 +3,6 @@ using Demo.Core.Domain.Dto.Application;
 using Demo.Core.Domain.Models;
 using Demo.Modules.ApplicationModule.Commands;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 

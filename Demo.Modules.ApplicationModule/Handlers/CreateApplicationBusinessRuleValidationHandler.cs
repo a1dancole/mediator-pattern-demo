@@ -1,7 +1,7 @@
-﻿using System.Threading.Tasks;
-using Demo.Core.Infrastructure;
+﻿using Demo.Core.Infrastructure;
 using Demo.Modules.ApplicationModule.BusinessRules;
 using Demo.Modules.ApplicationModule.Commands;
+using System.Threading.Tasks;
 
 namespace Demo.Modules.ApplicationModule.Handlers
 {
@@ -13,18 +13,12 @@ namespace Demo.Modules.ApplicationModule.Handlers
         {
             _applicationRepository = applicationRepository;
         }
-        public async Task Validate(CreateApplicationCommand request)
+        public async Task<IBusinessRule> Validate(CreateApplicationCommand request)
         {
             var applications =
                 await _applicationRepository.Find(o => o.ApplicationName == request.ApplicationCreateDto.ApplicationName);
 
-            var businessRule =
-                new ApplicationCannotBeCreatedWithDuplicateNameBusinessRule(applications, request.ApplicationCreateDto);
-
-            if (businessRule.IsBroken())
-            {
-                throw new BusinessRuleValidationException(businessRule);
-            }
+            return new ApplicationCannotBeCreatedWithDuplicateNameBusinessRule(applications, request.ApplicationCreateDto);
         }
     }
 }

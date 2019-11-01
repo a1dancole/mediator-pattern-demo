@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\Demo.Modules.ApplicationModule.csproj": {}
+    "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\Demo.Modules.ApplicationModule.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj": {
+    "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj",
+        "projectUniqueName": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj",
         "projectName": "Demo.Core.Database",
-        "projectPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj",
+        "projectPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj",
         "packagesPath": "C:\\Users\\Aidan Cole\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Database\\obj\\",
+        "outputPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj": {
-                "projectPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj"
+              "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj": {
+                "projectPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj": {
+    "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj",
+        "projectUniqueName": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj",
         "projectName": "Demo.Core.Domain",
-        "projectPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj",
+        "projectPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Domain\\Demo.Core.Domain.csproj",
         "packagesPath": "C:\\Users\\Aidan Cole\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Domain\\obj\\",
+        "outputPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -107,8 +107,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj": {
-                "projectPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj"
+              "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj": {
+                "projectPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj"
               }
             }
           }
@@ -140,14 +140,14 @@
         }
       }
     },
-    "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj": {
+    "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj",
         "projectName": "Demo.Core.Infrastructure",
-        "projectPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj",
+        "projectPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Infrastructure\\Demo.Core.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Aidan Cole\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Infrastructure\\obj\\",
+        "outputPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -213,14 +213,14 @@
         }
       }
     },
-    "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\Demo.Modules.ApplicationModule.csproj": {
+    "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\Demo.Modules.ApplicationModule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\Demo.Modules.ApplicationModule.csproj",
+        "projectUniqueName": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\Demo.Modules.ApplicationModule.csproj",
         "projectName": "Demo.Modules.ApplicationModule",
-        "projectPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\Demo.Modules.ApplicationModule.csproj",
+        "projectPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\Demo.Modules.ApplicationModule.csproj",
         "packagesPath": "C:\\Users\\Aidan Cole\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\obj\\",
+        "outputPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Modules.ApplicationModule\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -239,8 +239,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj": {
-                "projectPath": "D:\\Projects\\mediator-pattern-demo-1\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj"
+              "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj": {
+                "projectPath": "D:\\Projects\\mediator-pattern-demo\\mediator-pattern-demo\\mediator-pattern-demo\\Demo.Core.Database\\Demo.Core.Database.csproj"
               }
             }
           }

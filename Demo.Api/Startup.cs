@@ -1,7 +1,3 @@
-using System;
-using System.IO;
-using System.Linq;
-using System.Reflection;
 using Demo.Core.Database;
 using Demo.Core.Infrastructure;
 using Demo.StartupExtensions;
@@ -14,6 +10,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using SimpleInjector;
+using System;
+using System.IO;
+using System.Linq;
+using System.Reflection;
 
 namespace Demo
 {
@@ -42,7 +42,7 @@ namespace Demo
                 exception.Map<BusinessRuleValidationException>(ex =>
                     new BusinessRuleValidationExceptionProblemDetails(ex));
 
-                exception.Map<ValidationException>(ex => 
+                exception.Map<ValidationException>(ex =>
                     new ValidationExceptionProblemDetails(ex));
             });
 
@@ -66,7 +66,7 @@ namespace Demo
 
                 var assemblies =
                     from file in new DirectoryInfo(AppDomain.CurrentDomain.BaseDirectory).GetFiles()
-                    where file.Extension.ToLower() == ".dll" && file.FullName.Contains("Demo", StringComparison.CurrentCultureIgnoreCase)
+                    where file.Extension.ToLower() == ".dll" && file.FullName.Contains("Demo")
                     select Assembly.Load(AssemblyName.GetAssemblyName(file.FullName));
 
                 _container.RegisterPackages(assemblies);
